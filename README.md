@@ -1,12 +1,11 @@
 # Dumbways
-
-Stacks yang digunakan : PHP, JavaScript, HTML
+ Stacks yang digunakan : PHP, JavaScript, HTML
 
 Cara menggunakan:
 Install Xampp untuk menjalankan Apache
 
 Membuat database di MySQL dengan menggunakan command berikut
-
+'''
 create database employee;
 CREATE TABLE users_tb (
     id INT PRIMARY KEY AUTO_INCREMENT,
@@ -34,3 +33,4 @@ INSERT INTO skill_tb VALUES (NULL, 'Express', 2);
 INSERT INTO skill_tb VALUES (NULL, 'PHP', 3);
 INSERT INTO skill_tb VALUES (NULL, 'HTML', 3);
 INSERT INTO skill_tb VALUES (NULL, 'CSS', 3);
+'''
