@@ -2,7 +2,9 @@
 **Soal dikerjakan menggunakan : PHP, JavaScript**
 
 
-Untuk menjalankan 1-3.js dapat menggunakan commpiler online untuk java script ex: https://es6console.com/
+**Untuk menjalankan 1-3.js** 
+
+Bisa menggunakan text editor yang dimiliki maupun menggunakan compiler online untuk Java Script ex: https://es6console.com/
 
 **Cara menggunakan 4b:**
 
