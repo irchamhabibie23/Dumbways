@@ -1,7 +1,8 @@
 # Dumbways
- **Stacks yang digunakan : PHP, JavaScript, HTML**
+**Stacks yang digunakan : PHP, JavaScript, HTML**
+Untuk menjalankan 1-3.js dapat menggunakan commpiler online untuk java script ex: https://es6console.com/
 
-Cara menggunakan:
+Cara menggunakan 4b:
 Install Xampp untuk menjalankan Apache lalu buka html dan ketik http://localhost/dumbways/
 ## Membuat Database MySQL di lokal
 Membuat database di MySQL dengan menggunakan command berikut
