@@ -4,7 +4,7 @@
 
 **Untuk menjalankan 1-3.js** 
 
-Bisa menggunakan text editor yang dimiliki maupun menggunakan compiler online untuk Java Script ex: https://es6console.com/
+Bisa menggunakan IDE yang dimiliki maupun menggunakan compiler online untuk Java Script ex: https://es6console.com/
 
 **Cara menggunakan 4b:**
 
